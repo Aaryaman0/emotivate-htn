@@ -32,8 +32,6 @@ tqdm==4.64.1
 truststore==0.5.0
 umap==0.1.1
 umap_learn==0.5.3
-watchdog==2.1.9
-wincertstore==0.2.1
 xmlrpclib==1.0.1
 gunicorn
 Flask==1.1.2
